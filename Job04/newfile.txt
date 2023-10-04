@@ -1,0 +1,2 @@
+fichier à copier dans le nouveau fichier avec la commande argument.sh
+commande utilisée : ./argument.sh newfile.txt /mnt/c/Users/ilian/Desktop/contenu.txt
