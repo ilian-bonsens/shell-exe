@@ -1,0 +1,18 @@
+#on a utilisé la commande >> /home/ilian/shell-exe/Job08/cron.log 2>&1 en la rajoutant a la suite de la destination du script à exécuter dans le cron
+#elle sert à créer un fichier cron.log et à y répertorier chaque sortie et erreurs qui se produisent quand le script est exécuté par le crontab.
+#cela nous m'a permis de trouver pourquoi le cron ne fonctionnait pas (problème de chemin avec /var/log que j'ai remplacé par last)
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:23.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:39.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:21.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:04.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:32.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:42.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:30.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:23.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:44.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:39.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:21.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:04.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:32.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-11:42.tar: binary file matches
+grep: shell-exe/Job08/Backup/number_connection-06-10-2023-10:30.tar: binary file matches
